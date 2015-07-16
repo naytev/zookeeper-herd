@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var ZooKeeper = require ("zookeeper");
 var args = require("yargs").argv;
 

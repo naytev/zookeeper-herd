@@ -24,5 +24,5 @@ There are two arguments to control the herd:
 It is very simple:
 
 ```
-herd --zookeeper "node1:2181,node2:9181 --size 100
+herd --zookeeper "node1:2181,node2:9181" --size 100
 ```
