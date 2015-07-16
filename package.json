@@ -1,6 +1,6 @@
 {
   "name": "zookeeper-herd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Creates many connections to ZK, for easy testing of nodes",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
